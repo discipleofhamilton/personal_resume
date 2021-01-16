@@ -2,7 +2,7 @@
 
 <font face="Times New Roman">Chaiyi, Taiwan  -  (+886) 0934027001  -  hamiltonchangwork@gmail.com</font>
 
-<font face="Times New Roman">**Applied Position: Computer Vision and Deep Learning Engineer**</font>
+<font face="Times New Roman">**Applied Position: Computer Vision and C++ Engineer**</font>
 
 ## <font face="Times New Roman">Education</font>
 
@@ -20,6 +20,17 @@
   - <font face="Times New Roman">Graduate thesis: Face Recognition Access Control System Based on Raspberry Pi</font>
 
 ## <font face="Times New Roman">Experience</font>
+
+- <font size=4 face="Times New Roman">**Patere Technologies, Inc.**, Taipei, Taiwan</font><img src=".\assets\patere.png" align='right' height="15%" width="15%"/>
+
+  <font face="Times New Roman">**Computer Vision Engineer**, Nov. 2020 - Now</font>
+
+  - <font face="Times New Roman">Confidence and speech fluency detection</font>
+    - <font face="Times New Roman">Surveyed how to detect the speech fluency and confidence of the candidate with speech detection. </font>
+    - <font face="Times New Roman">Designed and implemented the rule-based project with basic speech features. Researched more complex and useful features which served for ML/DL, such as MFCC, FBank features.</font>
+  - <font face="Times New Roman">Focus detection</font>
+    - <font face="Times New Roman">Designed and Implemented the algorithm to check the candidate is focusing or not.</font>
+    - <font face="Times New Roman">Accuracy, precision, and recall are all about 80% on the self-record dataset and the fewer testing dataset which acquired from YouTube.</font>
 
 - <font size=4 face="Times New Roman">**Lenovo Group Ltd, Lenovo Research**, Beijing, China</font><img src=".\assets\lenovo-logo.png" align='right' height="15%" width="15%"/>
 
