@@ -23,7 +23,7 @@
 
 - <font size=4 face="Times New Roman">**Patere Technologies, Inc.**, Taipei, Taiwan</font><img src=".\assets\patere.png" align='right' height="15%" width="15%"/>
 
-  <font face="Times New Roman">**Computer Vision Engineer**, Nov. 2020 - Now</font>
+  <font face="Times New Roman">**Computer Vision Engineer**, Nov. 2020 - Jan. 2021</font>
 
   - <font face="Times New Roman">Confidence and speech fluency detection</font>
     - <font face="Times New Roman">Surveyed how to detect the speech fluency and confidence of the candidate with speech detection. </font>
