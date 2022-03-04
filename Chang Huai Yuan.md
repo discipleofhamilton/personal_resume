@@ -63,9 +63,6 @@
     - <font face="Times New Roman">Researched and tested object tracking and Template Matching Algorithms, and analyzed their advantages and shortcomings</font>
     - <font face="Times New Roman">Implemented, maintained and optimized long-term object tracking function</font>
     - <font face="Times New Roman">Increased the success rate of object tracking function by 15%, and CPU utility decreased by 5% through adding constraints and modifying object re-identification strategy</font>
-  - <font face="Times New Roman">Designed and researched binocular face recognition access control system</font>
-    - <font face="Times New Roman">Studied the algorithms of face detection and recognition (MTCNN, FaceNet, and FaceBoxes) </font>
-    - <font face="Times New Roman">Tried to achieve face anti-spoofing with binocular</font>
 
 ## <font face="Times New Roman">Competition</font>
 
