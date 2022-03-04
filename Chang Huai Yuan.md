@@ -6,18 +6,14 @@
 
 ## <font face="Times New Roman">Education</font>
 
-* <font size=4 face=Times New Roman>**Peking University**, Beijing, China</font><img src=".\assets\pku.png" align='right' height="10%" width="10%"/>
+* <font size=4 face=Times New Roman>**Peking University**, Beijing, China</font><img src=".\assets\pku.png" align='right' height="8%" width="8%"/>
 
   <font face="Times New Roman">**M.E. in Software Engineering**, Sept. 2017 - Aug. 2020</font>
 
-  * <font face="Times New Roman">Graduate thesis: Design and Implement of Real-time Long-term Single-person Tracking System</font>
-
 * <font size=4 face="Time New Roman">**Chung Yuan Christian
-  University**, Chungli, Taiwan</font><img src=".\assets\CYCU.png" align='right' height="10%" width="10%"/>
+  University**</font><img src=".\assets\CYCU.png" align='right' height="8%" width="8%"/>
 
   <font face="Times New Roman">**B.S. in Computer Science and Information Engineering**, Sept. 2013 - June 2017</font>
-
-  - <font face="Times New Roman">Graduate thesis: Face Recognition Access Control System Based on Raspberry Pi</font>
 
 ## <font face="Times New Roman">Experience</font>
 
