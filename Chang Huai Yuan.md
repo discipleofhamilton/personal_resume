@@ -26,15 +26,14 @@
   - <font face="Times New Roman">Led project AI Service API and project Resource Space</font>
     - <font face="Times New Roman">Surveyed Triton Inference Server and regarded Trition Inference Server as AI model server, picking ONNX, TensorRT, and Python backend.</font>
     - <font face="Times New Roman">Developed Face Recognition API:</font>
-      1. <font face="Times New Roman">Surveyed Face Detection models, such as MTCNN, CenterFace, RetinaFace, etc., and picked the MTCNN model as the basic model.</font>
+      1. <font face="Times New Roman">Surveyed Face Detection(MTCNN, CenterFace, RetinaFace, etc.) and Recognition(FaceNet, CosFace, ArcFace, etc.) models, selected MTCNN as the basic detection model, and provide FaceNet and ArcFace to users as recognition model options.</font>
       2. <font face="Times New Roman">Surveyed Face Recognition, such as FaceNet, CosFace, ArcFace, etc., selecting FaceNet and ArcFace to provide to users.</font>
-      3. <font face="Times New Roman">Utilized shared memory and KD-Tree for face embeddings database to resolve the multi-processes communication issue and accelerate the performance about 3 times.</font>
-      4. <font face="Times New Roman">Utilized pruning, uatization and specific hardware acceleration framework(TensorRT) to improve model performance on GPUs.</font>
+      3. <font face="Times New Roman">Utilized shared memory to resolve the issue of shared face embeddings database between multi-processes and accelerate the performance about 3 times.</font>
+      4. <font face="Times New Roman">Utilized quatization and specific hardware acceleration framework(TensorRT) to improve 5 times model performance on GPUs.</font>
     - <font face="Times New Roman">Utilized dockerfiles and the technologies like Multi-Stage, delete redundant dependencies, etc. to pack the project and get the minimized docker image size.</font>
-    - <font face="Times New Roman">Accelerated the model inference on general CPU platforms, using framework Tensorflow Lite with plugin library XNNPack.</font>
+    - <font face="Times New Roman">Accelerated at least third times the model inference time on general CPU platforms, using framework TensorFlow Lite with plugin library XNNPack.</font>
   - <font face="Times New Roman">Developed Auto Tiering AI model for the Infortrend storage systems and accelerated at least 60% IO performance.</font>
-    - <font face="Times New Roman">Utilized machine learning model (XGBoost) rather than deep learning model because of the consideration of the storage system performance.</font>
-    - <font face="Times New Roman">Implemented the method from the paper to predict whether the files are accessed in the future period because the specification of predicting a day is too long to get the result good enough.</font>
+    - <font face="Times New Roman">Implemented the method from the paper to predict whether the files are accessed in the future period because the specification of predicting a day is too long to get only 80% accuracy maximum.</font>
     - <font face="Times New Roman">Implemented a regression model to predict the temperature of the files and improve at least 60% IO performance of the storage system.</font>
 
 - <font size=4 face="Times New Roman">**Patere Technologies, Inc.**, Taipei, Taiwan</font><img src=".\assets\patere.png" align='right' height="15%" width="15%"/>
