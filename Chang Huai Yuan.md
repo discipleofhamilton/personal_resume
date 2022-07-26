@@ -2,7 +2,7 @@
 
 <font face="Times New Roman">Chaiyi, Taiwan  -  (+886) 0934027001  -  hamiltonchangwork@gmail.com / hamiltonchang@pku.edu.cn</font>
 
-<font face="Times New Roman">**Applied Position: Computer Vision and C++ Engineer**</font>
+<!-- <font face="Times New Roman">**Applied Position: Computer Vision and C++ Engineer**</font> -->
 
 ## <font face="Times New Roman">Education</font>
 
