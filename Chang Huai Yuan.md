@@ -6,10 +6,9 @@
 
 ## <font face="Times New Roman">Education</font>
 
-* <font face=Times New Roman>**Peking University, M.E. in Software Engineering**, Sept. 2017 - Aug. 2020</font><img src=".\assets\pku.png" align='right' height="5%" width="5%"/>
+* <font face="Times New Roman">**Peking University, M.E. in Software Engineering**, Sept. 2017 - Aug. 2020</font><img src=".\assets\pku.png" align='right' height="5%" width="5%"/>
 
-* <font face="Time New Roman">**Chung Yuan Christian
-  University, B.S. in Computer Science and Information Engineering**, Sept. 2013 - June 2017</font><img src=".\assets\CYCU.png" align='right' height="5%" width="5%"/>
+* <font face="Times New Roman">**Chung Yuan Christian University, B.S. in Computer Science and Information Engineering**, Sept. 2013 - June 2017</font><img src=".\assets\CYCU.png" align='right' height="5%" width="5%"/>
 
 ## <font face="Times New Roman">Experience</font>
 
@@ -24,7 +23,7 @@
     - <font face="Times New Roman">Developed Face Recognition API:</font>
       1. <font face="Times New Roman">Regarded MTCNN as the basic detection model, providing FaceNet and ArcFace as recognition options</font>
       2. <font face="Times New Roman">Utilized shared memory to resolve the issue of shared face embeddings database between multi-processes and accelerate the performance about 3 times</font>
-      3. <font face="Times New Roman">Used quantization and specific hardware acceleration framework(TensorRT) to get 5 times performance</font>
+      3. <font face="Times New Roman">Utilized quantization and TensorRT to get 5 times performance</font>
     - <font face="Times New Roman">Utilized Multi-Stage, delete redundant dependencies, etc. to reduce the docker image size from 13GB to 7Gb</font>
     - <font face="Times New Roman">Accelerated at least 3 times inference time on general CPU platforms, using TensorFlow Lite with XNNPack</font>
   - <font face="Times New Roman">Developed Auto Tiering AI model for the Infortrend storage systems and accelerated at least 60% IO performance.</font>
@@ -47,7 +46,7 @@
   <font face="Times New Roman">**Computer Vision and AI Algorithm Intern**, Aug. 2019 - Nov. 2019</font>
 
   - <font face="Times New Roman">Developed automatic training system for commodity detection based on RetinaNet for unmanned stores, and found the reason resulted in low detect success rate by analyzing the testing result</font>
-  - <font face="Times New Roman">Increased the success rate of commodity detection about 20% through collecting and generating the more complicated and suitable data to train the model</font>
+  - <font face="Times New Roman">Increased the success rate of commodity detection about 20% through collecting and generating more complicated and suitable data</font>
 
 - <font size=4 face="Times New Roman">**Zero Zero Robotics**, Beijing, China</font><img src=".\assets\zerozero-logo.png" align='right' height="16%" width="16%"/>
 
@@ -83,7 +82,7 @@
   <font face="Times New Roman">**Team Leader**, May 2018 - June 2018</font>
 
   - <font face="Times New Roman">To recognize the anime character by the same character but different styles</font>
-  - <font face="Times New Roman">Utilized the trained  LBPcascade to detect anime faces and recognize ones with the Inception-v3 model, which fine-tuned the classifier layer</font>
+  - <font face="Times New Roman">Utilized the trained  LBPcascade to detect anime faces and recognize ones with the fine-tuned Inception-v3 model.</font>
   - <font face="Times New Roman">**TOP1 result is 73.25%**</font>
 
 - <font size=4 face="Times New Roman">**Scheme Interpreter Implemented in C++**</font>
@@ -97,11 +96,11 @@
 
    <font face="Times New Roman">**Team Leader**,  Feb. 2016 - Nov. 2016</font>
 
-   - <font face="Times New Roman">Learned and utilized the technologies of face recognition and pre-processing, and balanced the security and praticality during the development</font>
-   - <font face="Times New Roman">There are establishment of face key and face recognition two partition of software system, and the systme had ported to Raspberry Pi and send signal to relay to control the electromagnetic induction door lock</font>
+   - <font face="Times New Roman">Learned and used the technologies of face recognition and pre-processing, and balanced the security and practicality of the system</font>
+   - <font face="Times New Roman">Built the software system containing face key(database) and face recognition, and ported it to Raspberry Pi.  It sends a signal to relay to control the electromagnetic induction door lock</font>
 
 ## <font face="Times New Roman">Skills</font>
 
-- <font face="Times New Roman">Programming Language: C, C++, Java, R, Python </font>
-- <font face="Times New Roman">Other: Git, GDB, Docker, pdb</font>
+- <font face="Times New Roman">Programming Language: Python, C/C++, Java, R </font>
+- <font face="Times New Roman">Other: Git, GDB, Docker, pdb, Kubernetes</font>
 
