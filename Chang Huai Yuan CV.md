@@ -29,8 +29,8 @@
   <!-- - <font face="Times New Roman">Ported the CMS from NVIDIA Nano(ARM) to x86 server, packed it into a docker image with a dockerfile, and used a CI/CD to build and deploy it to the Infortrend devices</font> -->
   - <font face="Times New Roman">Led project AI Service API and project Resource Space</font>
     <!-- - <font face="Times New Roman">Regarded Trition Inference Server as AI model server, picking ONNX, TensorRT, and Python backend</font> -->
-    - <font face="Times New Roman">Enhannced face detection about 2% accuracy without compromising inference speed through BoF training method</font>
-    - <font face="Times New Roman">Fine-tuned face recognition on the AFD Asian face dataset, achieving 95.4% accuracy</font>
+    - <font face="Times New Roman">Improved face detection about 2% accuracy without compromising inference speed through BoF training method</font>
+    - <font face="Times New Roman">Improved face recognition on the AFD Asian face dataset, achieving 95.4% accuracy</font>
     - <font face="Times New Roman">Utilized shared memory to resolve the issue of shared face embeddings database between multi-processes and accelerate the performance about 3 times</font>
     <!-- - <font face="Times New Roman">Utilized quantization and TensorRT to get 5 times performance</font> -->
     <!-- - <font face="Times New Roman">Utilized Multi-Stage, delete redundant dependencies, etc. to reduce the docker image size from 13GB to 7Gb</font> -->
